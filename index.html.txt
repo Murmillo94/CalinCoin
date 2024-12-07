@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CalinCoin - The Meme Coin of Romania 2024</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🚀 CalinCoin</h1>
+            <p>The meme coin inspired by Călin Georgescu's 2024 presidential campaign!</p>
+            <a href="#buy" class="button">Buy Now</a>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <h2>What is CalinCoin?</h2>
+            <p>CalinCoin is a fun, community-driven cryptocurrency on Binance Smart Chain (BSC), aiming to bring humor and innovation to Romanian politics. 🚀</p>
+        </section>
+        <section id="tokenomics">
+            <h2>Tokenomics</h2>
+            <ul>
+                <li>Total Supply: 1,000,000,000 CALG</li>
+                <li>Launch Price: $0.00001</li>
+                <li>Blockchain: Binance Smart Chain (BSC)</li>
+            </ul>
+        </section>
+        <section id="roadmap">
+            <h2>Roadmap</h2>
+            <ol>
+                <li><strong>Phase 1:</strong> Launch CalinCoin and build community 🚀</li>
+                <li><strong>Phase 2:</strong> Listing on PancakeSwap 🥞</li>
+                <li><strong>Phase 3:</strong> Marketing campaign & partnerships 🌟</li>
+                <li><strong>Phase 4:</strong> To the moon! 🌕</li>
+            </ol>
+        </section>
+        <section id="buy">
+            <h2>How to Buy CalinCoin</h2>
+            <p>1. Install MetaMask and connect to Binance Smart Chain.<br>2. Add funds to your wallet (BNB).<br>3. Visit PancakeSwap and swap BNB for CALG.</p>
+            <a href="#" class="button">Buy on PancakeSwap</a>
+        </section>
+        <footer>
+            <p>© 2024 CalinCoin. All Rights Reserved.</p>
+            <a href="mailto:contact@calincoin.ro">Contact Us</a>
+        </footer>
+    </main>
+</body>
+</html>
